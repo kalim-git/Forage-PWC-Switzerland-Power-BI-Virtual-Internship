@@ -11,5 +11,6 @@ The object of this analysis is to create a dashboard in PowerBI for Call Center 
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 ## Data Transformation
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modelling.
-The call canter dataset is given by a table named: 
+
+The call center dataset is given by a table named: 
 - Call Center which has 10 columns and 5000 rows of observation.
